@@ -1,0 +1,14 @@
+#
+127.0.0.1 localhost
+::1 localhost
+127.0.0.1 3ca52znvmj.adobe.io 
+127.0.0.1 cc-api-data.adobe.io 
+127.0.0.1 ic.adobe.io 
+127.0.0.1 genuine.adobe.com 
+127.0.0.1 prod.adobegenuine.com 
+127.0.0.1 assets.adobedtm.com 
+
+0.0.0.0 apps.corel.com
+0.0.0.0 mc.corel.com
+0.0.0.0 origin-mc.corel.com
+0.0.0.0 iws.corel.com
